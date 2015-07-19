@@ -1,8 +1,16 @@
 Web Scraper
 
+Requirementz:
+Laravel 4 Framework
+Greater than or equal to PHP5.3
+Composer (package required)
+  “fabpot/goutte”: “v2.0.1″  = Goutte A simple PHP Web Scraper
+  Visit packagist.com, click here Goutte
+
 Using Goutte Class, we can now easily get data with an ease.
 You can check our tutorial about this Web Scraper.
 
+ps.... dont forget this.... composer update && composer dump-autoload
 
 <a href="http://iapdesign.com/webdev/laravel-4-webdev/superb-web-scraping-tutorials-using-laravel-4/">Web Scraping Tutorial using Laravel 4</a>
 
