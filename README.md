@@ -1,13 +1,10 @@
-superbwebscraping
-=================
-
-Superb Web Scraper
+Web Scraper
 
 Using Goutte Class, we can now easily get data with an ease.
 You can check our tutorial about this Web Scraper.
 
 
-<a href="http://iapdesign.com/webdev/laravel-4-webdev/superb-web-scraping-tutorials-using-laravel-4/">Super Web Scraping Tutorial using Laravel 4</a>
+<a href="http://iapdesign.com/webdev/laravel-4-webdev/superb-web-scraping-tutorials-using-laravel-4/">Web Scraping Tutorial using Laravel 4</a>
 
 
 __construct() – This will used for instantiating our new classes that we want to used and others. In this part i used a simple design pattern called Dependency Injection.
